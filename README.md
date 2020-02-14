@@ -65,3 +65,7 @@ Use `drive_adv --help` to get the command line interface
 
 First, list all the files for all the relevant users to the databse using the `drive_adv list` command. This will write to the postgres db you set up. Then, you can query this database to get any information you need about the Drive environment. Some sample queries exist in `sql/`
 
+
+## Contributing
+
+Contributions, bug reports, questions and feedback from users of all levels are greatly appreciated! :)
