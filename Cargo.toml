@@ -1,10 +1,14 @@
 [package]
 name = "drive-adv"
 version = "0.1.0"
-authors = ["alex wennerberg <awennerberg@cloudbakers.com>"]
+authors = ["alex wennerberg <alex@alexwennerberg.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+description = "Advanced auditing tools for Google Drive"
+homepage = "https://github.com/alexwennerberg/drive-adv"
+documentation = "https://github.com/alexwennerberg/drive-adv"
+repository = "https://github.com/alexwennerberg/drive-adv"
+keywords = ["Google", "Drive"]
 
 [dependencies]
 base64 = "0.11"
