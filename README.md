@@ -30,7 +30,7 @@ Install the following dependencies:
 
 [Install Cargo/Rust](https://doc.rust-lang.org/cargo/getting-started/installation.html)
 
-`cargo install --git https://github.com/Cloudbakers/drive-adv` 
+`cargo install drive-adv` 
 
 ## Configuration
 
