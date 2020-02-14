@@ -1,0 +1,12 @@
+## Authentication and setup
+#
+# export DRIVE_ADV_OFFLINE_OAUTH="saved_refresh_token.json" optional. Used for individual authentication.
+export DRIVE_ADV_SERVICE_ACCOUNT="service_account.json"
+export DATABASE_URL=[postgres url]
+# Should be drive or (preferably) drive.readonly
+export DRIVE_SCOPE="drive.readonly"
+
+
+## Dev settings
+# Log settings -- see https://docs.rs/env_logger/latest
+export RUST_LOG="debug,hyper=info"

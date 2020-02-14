@@ -1,0 +1,7 @@
+/target
+**/*.rs.bk
+*sa.json
+.env
+*.db
+src/drive.rs
+env
