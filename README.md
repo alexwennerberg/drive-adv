@@ -27,8 +27,10 @@ Install the following dependencies:
 
 * openssl
 * postgresql
+* build-essential
 
 [Install Cargo/Rust](https://doc.rust-lang.org/cargo/getting-started/installation.html)
+setup postgresql user: https://wiki.postgresql.org/wiki/First_steps
 
 `cargo install drive_adv` 
 
