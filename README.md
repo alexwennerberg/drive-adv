@@ -26,7 +26,7 @@ Google Drive must be thought of as the whole Drive universe, not just individual
 Install the following dependencies:
 
 * openssl
-* postgresql
+* postgresql & postgres dev package
 * build-essential
 
 [Install Cargo/Rust](https://doc.rust-lang.org/cargo/getting-started/installation.html)
