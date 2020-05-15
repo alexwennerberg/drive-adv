@@ -71,3 +71,6 @@ First, list all the files for all the relevant users to the databse using the `d
 ## Contributing
 
 Contributions, bug reports, questions and feedback from users of all levels are greatly appreciated! :)
+
+* Alex Wennerberg -- Development work
+* [Dametrius King](https://github.com/dking12) -- Documentation and testing
